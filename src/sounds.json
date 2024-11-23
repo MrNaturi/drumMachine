@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "key": "Q",
+      "sound": "/sounds/Cev_H2.mp3",
+      "name": "Heater 1"
+    },
+    {
+        "id": 2,
+        "key": "W",
+        "sound": "/sounds/Dsc_Oh.mp3",
+        "name": "Heater 2"
+      },
+      {
+        "id": 3,
+        "key": "E",
+        "sound": "/sounds/Heater-1.mp3",
+        "name": "Heater 3"
+      },
+      {
+        "id": 4,
+        "key": "A",
+        "sound": "/sounds/Heater-2.mp3",
+        "name": "Heater 4"
+      },
+      {
+        "id": 5,
+        "key": "S",
+        "sound": "/sounds/Heater-3.mp3",
+        "name": "Clap"
+      },
+      {
+        "id": 6,
+        "key": "D",
+        "sound": "/sounds/Heater-4_1.mp3",
+        "name": "Open HH"
+      },
+      {
+        "id": 7,
+        "key": "Z",
+        "sound": "/sounds/Heater-6.mp3",
+        "name": "Kick N Hat"
+      },
+      {
+        "id": 8,
+        "key": "X",
+        "sound": "/sounds/Kick_n_Hat.mp3",
+        "name": "Kick"
+      },
+      {
+        "id": 9,
+        "key": "C",
+        "sound": "/sounds/RP4_KICK_1.mp3",
+        "name": "Closed HH"
+      }
+  ]
+  
